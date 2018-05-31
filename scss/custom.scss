@@ -1,0 +1,13 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+$body-bg: rgba(240, 234, 234, 0.048);
+/*$body-color: rgb(196, 49, 49);
+
+$theme-colors: (
+  "primary": #0074d9,
+  "danger": #ff4136
+);
+*/
+
+
+@import "node_modules/bootstrap/scss/bootstrap";
